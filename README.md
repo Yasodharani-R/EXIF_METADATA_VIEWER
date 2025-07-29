@@ -21,7 +21,7 @@ This Python script reads and displays *EXIF metadata* from JPG image files using
 - Python 3.x
 - exifread module
 
-- ## 🧪 Troubleshooting Guide
+##  Troubleshooting Guide
 
 If your EXIF metadata viewer returns *"No EXIF metadata found."*, here are a few possible causes and how to fix them:
 
