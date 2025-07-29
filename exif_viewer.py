@@ -3,7 +3,7 @@ import exifread
 
 try:
     # Opening the image file in binary mode
-    with open("sample1.jpg", 'rb') as file:
+    with open("sample2.jpg", 'rb') as file:
 
         # Processing the file to extract EXIF metadata
         tags = exifread.process_file(file)
